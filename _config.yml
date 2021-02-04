@@ -84,7 +84,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark"
 # Site Author
 author:
   name             : "Qinghao Hu"
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "China"
   employer         :
